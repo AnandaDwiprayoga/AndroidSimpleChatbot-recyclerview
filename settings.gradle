@@ -1,0 +1,2 @@
+rootProject.name='RecyclerViewChatBot'
+include ':app'

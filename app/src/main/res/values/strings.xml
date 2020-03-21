@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewChatBot</string>
+    <string name="not_found">Pesan anda tidak dikenali</string>
+    <string name="opening">Selamat datang di MobileBot\ncreated by AnandaDwiPrayoga\nSiapa namamu ?</string>
+    <string name="service">Hallo %s ,\nPilih nomer salah satu : \n1. ucapan sayang\n2. ucapan bobok</string>
+    <string name="sayang">Hallo %s ,aku sayang kamu :) </string>
+    <string name="bobo">Hallo %s ,buruan bobo gih sudah malem </string>
+</resources>
