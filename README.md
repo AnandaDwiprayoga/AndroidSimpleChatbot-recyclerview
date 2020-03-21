@@ -5,5 +5,6 @@ bot otomatis akan menjawab pesan yang anda kirim. saat ini bot hanya bisa menang
 
 ## Overview   
 
-![Screen1](https://github.com/AnandaDwiprayoga/AndroidSimpleChatbot-recyclerview/blob/master/screen/screen1.jpeg)
-![Screen2](https://github.com/AnandaDwiprayoga/AndroidSimpleChatbot-recyclerview/blob/master/screen/screen2.jpeg) 
+<img src="https://github.com/AnandaDwiprayoga/AndroidSimpleChatbot-recyclerview/blob/master/screen/screen1.jpeg" width="100">
+<img src="https://github.com/AnandaDwiprayoga/AndroidSimpleChatbot-recyclerview/blob/master/screen/screen2.jpeg" width="100">
+
